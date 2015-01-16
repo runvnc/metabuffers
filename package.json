@@ -1,11 +1,12 @@
 {
   "name": "metabuffers",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "Attach metadata to buffers (JSON)",
   "main": "metabuffers.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "keywords": [ "metadata", "buffer", "meta", "json", "stream", "buffers" ],
+  "author": "Jason Livesay",
   "license": "ISC"
 }
