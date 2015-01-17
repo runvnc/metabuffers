@@ -1,6 +1,6 @@
 {
   "name": "metabuffers",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Attach metadata to buffers (JSON)",
   "main": "metabuffers.js",
   "scripts": {
